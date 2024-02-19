@@ -31,4 +31,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            gisgarme/animalfarm-js:latest
+            lpxrevolution/animal-farm-nodejs:latest
