@@ -31,4 +31,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ghcr.io/animalfarm-js:latest
+            gisgarme/animalfarm-js:latest
