@@ -31,4 +31,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            https://github.com/lpxrevolution/animal-farm-nodejs:latest
+            ghcr.io/lpxrevolution/animal-farm-nodejs:latest
